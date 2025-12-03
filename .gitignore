@@ -1,0 +1,7 @@
+# Ignorar ejecutables y objetos compilados
+*.exe
+*.o
+*.layout
+*.depend
+bin/
+obj/
